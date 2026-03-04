@@ -1,0 +1,11 @@
+C:\Users\PROAN\Desktop\.NET APIS\Invensa\Invensa.Domain\bin\Debug\net9.0\Invensa.Domain.deps.json
+C:\Users\PROAN\Desktop\.NET APIS\Invensa\Invensa.Domain\bin\Debug\net9.0\Invensa.Domain.dll
+C:\Users\PROAN\Desktop\.NET APIS\Invensa\Invensa.Domain\bin\Debug\net9.0\Invensa.Domain.pdb
+C:\Users\PROAN\Desktop\.NET APIS\Invensa\Invensa.Domain\obj\Debug\net9.0\Invensa.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PROAN\Desktop\.NET APIS\Invensa\Invensa.Domain\obj\Debug\net9.0\Invensa.Domain.AssemblyInfoInputs.cache
+C:\Users\PROAN\Desktop\.NET APIS\Invensa\Invensa.Domain\obj\Debug\net9.0\Invensa.Domain.AssemblyInfo.cs
+C:\Users\PROAN\Desktop\.NET APIS\Invensa\Invensa.Domain\obj\Debug\net9.0\Invensa.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PROAN\Desktop\.NET APIS\Invensa\Invensa.Domain\obj\Debug\net9.0\Invensa.Domain.dll
+C:\Users\PROAN\Desktop\.NET APIS\Invensa\Invensa.Domain\obj\Debug\net9.0\refint\Invensa.Domain.dll
+C:\Users\PROAN\Desktop\.NET APIS\Invensa\Invensa.Domain\obj\Debug\net9.0\Invensa.Domain.pdb
+C:\Users\PROAN\Desktop\.NET APIS\Invensa\Invensa.Domain\obj\Debug\net9.0\ref\Invensa.Domain.dll
